@@ -27,6 +27,11 @@ body {
   background-color: red;
   position: relative;
 }
+.klas{
+    color: white;
+    margin-bottom: 100%;
+    margin-left: 120%;
+}
 
 .todo {
   position: absolute;
